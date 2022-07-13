@@ -1,4 +1,13 @@
 <div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -17,7 +26,7 @@
 
 
 
-<!-- LOAN DEFAULT PREDICTOR -->
+<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -75,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This application utilizes machine learning to predict whether a user while default on a loan
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,11 +92,14 @@ This application utilizes machine learning to predict whether a user while defau
 
 ### Built With
 
-* [![pandas]
-* [![tensorflow]
-* [![Vue][Vue.js]
-* [![sklearn]
-
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -96,11 +108,12 @@ This application utilizes machine learning to predict whether a user while defau
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running of our application, follow the next steps.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Install 
+This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
